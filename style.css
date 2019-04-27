@@ -31,8 +31,7 @@ p#featured-property {
   text-align: center
 }
 
-
-div#details {
+div.details {
   display: block;
   float: left;
   text-align: center;
