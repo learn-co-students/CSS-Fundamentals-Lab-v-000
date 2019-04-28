@@ -3,3 +3,49 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  align-self: center;
+}
+
+h1 {
+  align-self: center;
+}
+
+#featured-property {
+  align-self: center;
+}
+
+nav {
+  align-self: center;
+
+}
+
+nav > a {
+  padding: 10px;
+  background-color: grey;
+}
+
+figcaption {
+  font-size: 6px;
+  align-self: center;
+}
+
+p {
+  width: 800px;
+  align-self: center;
+}
+
+details {
+  display: block;
+
+}
+
+
+
+#details {
+  background-color: red;
+  text-align: center;
+
+  float: left;
+}
