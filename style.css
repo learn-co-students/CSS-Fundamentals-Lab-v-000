@@ -22,6 +22,14 @@ nav a {
   background-color: #dcdcdc;
 }
 
+/*learn solution had
+nav a {
+  padding: 0 10px;
+  background-color: grey;
+  margin: 0 auto;
+}
+*/
+
 /*center caption & make smaller*/
 figcaption {
   text-align: center;
@@ -32,7 +40,7 @@ figcaption {
 #featured-property p {
   text-align: center;
   width: 800px;
-  margin:auto;
+  margin:auto;       /*learn solution had margin: 0 auto */
 }
 
 /*make #details section horizontal*/
