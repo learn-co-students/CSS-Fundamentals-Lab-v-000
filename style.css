@@ -5,32 +5,32 @@ body {
   text-align: center
 }
 
-header {
+h1 {
   text-align: center;
 }
 
-figure {
+nav, figcaption {
   text-align: center;
 }
 
+nav {
+  background-color: lightGrey;
+  padding: 20px 0;
+  border-style: inset;
+}
 nav a {
   text-align: center;
   padding: 0 10px;
 }
 
-#featured-property {
-  text-align: center;
-}
-
-
-#featured-property > p {
+#featured-property  p {
   width: 800px;
-}
-#details {
   text-align: center;
+  margin: 0 auto;
 }
 
 #details div {
-  display: inline-block;
   float: left;
+  width: 25%;
+  text-align: center;
 }
