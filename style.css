@@ -1,5 +1,47 @@
 body {
-  width: 100%;
-  height: 100%;
-  margin: 0;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+/* a tag within nav */
+
+nav a {
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: gray;
+}
+
+figcaption {
+    text-size-adjust: 50%;
+    text-align: center;
+}
+
+
+/* # used for id*/
+
+#featured-property p {
+    width: 800px;
+    text-align: center;
+}
+
+#details {
+    display: block;
+    /* makes things horizontal instead of vertical */
+    background-color: red;
+}
+
+#details div {
+    float: left;
+    width: 25%;
 }
