@@ -3,3 +3,47 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  color: #ffffff;
+  text-align: center;
+  text-shadow: 7px 5px #1FBABF;
+}
+
+nav{
+  text-align: center;
+}
+
+nav a{
+  color:#3E3E40;
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: #E8E7ED;
+}
+
+figure{
+  text-align: center;
+}
+
+figcaption{
+  text-align: center;
+  font-size: 8px;
+}
+
+
+ section > p {
+  width: 800px;
+}
+
+details > div{
+  display: block;
+  float: left;
+}
+
+div{
+  background-color: red;
+  text-align: center;
+  width: 25%;
+}
+
