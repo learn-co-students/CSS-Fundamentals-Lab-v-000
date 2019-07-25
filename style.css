@@ -3,3 +3,38 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  text-align: center;
+}
+
+nav {
+  text-align: center;
+}
+
+img {
+  width: 70%;
+  display: block;
+  margin: auto;
+}
+
+#featured-property {
+  text-align: center;
+}
+
+#featured-property p {
+  width: 60%;
+  margin: auto;
+}
+
+#details {
+  background-color: red;
+  height: 160px;
+  margin-top: 20px;
+
+}
+#details div {
+  display: inline-block;
+  padding: 15px 70px;
+
+}
