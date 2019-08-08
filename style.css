@@ -3,3 +3,26 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  text-align: center;
+}
+figure {
+  margin: auto;
+  width: 50%;
+}
+nav {
+  text-align: center;
+}
+nav a {
+  padding: 10px;
+  background-color: lightblue;
+}
+figcaption {
+  text-align: center;
+  font-size: 90%
+}
+p {
+  margin: auto;
+  text-align: center;
+  width: 800px;
+}
