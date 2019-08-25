@@ -3,3 +3,25 @@ body {
   height: 100%;
   margin: 0;
 }
+
+body {
+  text-align: center;
+}
+
+nav a{
+  padding: 10px;
+  background-color: lightgrey;
+}
+
+figcaption{
+  font-size: smaller;
+}
+
+p.featured-property{
+  width: 800px
+}
+
+#details{
+  column-count: 4;
+  background-color: red;
+}
