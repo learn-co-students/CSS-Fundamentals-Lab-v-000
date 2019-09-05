@@ -3,3 +3,49 @@ body {
   height: 100%;
   margin: 0;
 }
+
+/* Because h1 is the immediate descendant of header, the ">" symbol is used */
+header > h1 {
+  color: rgb(12, 151, 169);
+  text-align: center;
+  font-style: italic;
+  font-weight: bold;
+  font: calibri;
+}
+/* Because h1 is *NOT* the immediate descendant of header, the ">" symbol is *NOT* used */
+header nav {
+  text-align: center;
+  font-style: italic;
+  font-weight: bold;
+  font: calibri;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a {
+  padding: 30px 10px;
+}
+
+
+
+#featured-property p {
+  display: block;
+  margin: auto;
+  width: 700px;
+  text-align: center;
+}
+
+#details {
+  display: block;
+}
+
+#details div {
+  float: right;
+  width: 25%;
+  text-align: center;
+  background-color: rgb(94, 148, 113);
+}
