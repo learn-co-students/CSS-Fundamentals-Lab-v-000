@@ -3,3 +3,30 @@ body {
   height: 100%;
   margin: 0;
 }
+
+/*h1, nav, figure {
+  text-align: center;
+}*/
+
+nav  {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+* {
+  text-align: center;
+}
+
+
+
+section#featured-property p {
+  width: 800px;
+}
+
+section#details div {
+  display: inline-block;
+  float: left;
+  width: 25%;
+  background-color: purple;
+  /*color: red;*/
+}
