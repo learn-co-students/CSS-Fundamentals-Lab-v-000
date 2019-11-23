@@ -3,3 +3,31 @@ body {
   height: 100%;
   margin: 0;
 }
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.center {
+  margin: auto;
+  text-align: center;
+}
+
+nav>a {
+  background-color: lightgrey;
+}
+
+footer {
+  background-color: red;
+}
+
+div#first {
+  margin-left: 10%;
+}
+
+footer > div {
+  display: inline-block;
+  width: 20%;
+}
