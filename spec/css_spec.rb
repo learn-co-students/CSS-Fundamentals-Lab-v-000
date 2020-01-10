@@ -25,5 +25,4 @@ RSpec.describe 'styling' do
       expect(my_css_looks_like_the_solution_image).to be_truthy
     end
   end
-
 end
