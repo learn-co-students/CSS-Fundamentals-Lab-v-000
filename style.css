@@ -4,16 +4,16 @@ body {
   height: 100%;
   margin: 0;
 }
+
 header, #featured-property, #details{
   text-align: center;
 }
+
 nav a{
   background-color: #fadadd;
   padding: 0px 10px;
 }
-#details div{
-  display: inline;
-}
+
 #featured-property figcaption{
   font-size: small;
 }
@@ -22,13 +22,12 @@ nav a{
   margin: auto;
 }
 
+#details{
+  margin-top: 25px;
+}
 #details div{
   width: 25%;
   display: block;
   background-color: #fadadd;
   float: left;
-}
-
-#details{
-  margin-top: 25px;
 }
