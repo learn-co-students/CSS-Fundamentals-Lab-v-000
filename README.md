@@ -72,6 +72,7 @@ h1 {
 If you see your `<h1>` change to red, you've linked your stylesheet correctly!
 Don't forget to delete it once you have your link working.
 
+
 ## Deliverables
 
 For this exercise, we are going to be transforming our base HTML into a more
@@ -85,6 +86,7 @@ finished product whatever way works the best for you.
 
 **Note:** If you are having trouble finding the specific CSS property you need
 to get a specific visual outcome, use your Google-Fu with queries such as: "CSS
+center text within div".
 center text within div".
 
 In following the guidelines, you should be referencing the `index.html` to find
