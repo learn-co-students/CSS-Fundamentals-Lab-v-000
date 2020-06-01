@@ -3,3 +3,38 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  text-align: center;
+}
+
+header a {
+  background-color: grey;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+figcaption {
+  text-align: center;
+}
+
+
+#featured-property p {
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+  text-align: center;
+}
+
+section#details div {
+  display: block;
+  float: left;
+  width: 25%;
+  text-align: center;
+  background-color: red;
+
+}
