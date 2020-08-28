@@ -3,3 +3,50 @@ body {
   height: 100%;
   margin: 0;
 }
+
+/* h1 {
+  color: red;
+} */
+
+header, figcaption, #featured-property {
+  text-align: center;
+}
+
+img {
+  display: block;
+  /* margin-left: auto;
+  margin-right: auto; */
+  margin: 0 auto;
+}
+
+nav a {
+  padding: 0 10px;
+  background-color: tan;
+}
+
+figcaption {
+  font-size: 14px;
+}
+
+#featured-property p {
+  display: inline-block;
+  width: 800px;
+}
+
+/* #details {
+  display: block;
+  (I think this is default.)
+} */
+
+/* #details {
+  margin-top: 5px;
+  margin-bottom: 5px;
+} */
+
+#details div {
+  float: left;
+  background-color: red;
+  text-align: center;
+  width: 25%;
+  margin-bottom: 20px;
+}
