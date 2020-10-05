@@ -3,3 +3,47 @@ body {
   height: 100%;
   margin: 0;
 }
+
+section {
+  width: 80%;
+  margin: 0 auto;
+}
+
+header {
+  text-align: center;
+}
+
+nav a {
+  padding: 0px 10px;
+  background-color: lightseagreen;
+}
+
+figcaption {
+  font-size: 0.7em;
+  text-align: center;
+}
+
+figure {
+  width: 900px;
+  margin: 0 auto;
+}
+figure img {
+  width: 100%;
+}
+#featured-property p {
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+#details {
+  width: 100%;
+}
+
+#details div {
+  width: 25%;
+  float: left;
+  text-align: center;
+  background-color: rebeccapurple;
+}
