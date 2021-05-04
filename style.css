@@ -4,3 +4,44 @@ body {
   margin: 0;
 }
 
+h1 {
+  text-align: center;
+}
+
+figure {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 65%;
+}
+
+nav  {
+  
+  text-align: center;
+  padding: 10px 10px;
+  background-color: #C2B280;
+}
+
+figcaption {
+  text-align: center;
+  font-size: 12px;
+}
+
+section#featured-property p {
+  margin: auto;
+  width: 800px;
+  text-align: center;
+}
+
+
+section#details div {
+  margin: auto;
+  width: 330px;
+  display: block;
+  float: left;
+  text-align: center;
+  padding: 10px;
+  background-color: rgba(255,140,105,0.5);
+}
+
+
